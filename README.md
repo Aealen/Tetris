@@ -18,8 +18,4 @@ cpp 实现 俄罗斯方块
 - 2020/12/07 19:20  Auto Move down completed and control the diving blocks move left and right!!!
 
   
-
-<a href="https://sm.ms/image/3QNItRmsAfwKiGu" target="_blank"><img src="https://phobed.aowu.tech/i/2022/09/02/6311ecfb858b7.png" ></a>
-
-
-
+![image.png](https://s2.loli.net/2022/09/02/3QNItRmsAfwKiGu.png)
